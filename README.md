@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<a href="https://jiinhong.github.io" target="_blank"><img src="https://img.shields.io/badge/BLOG-222222?style=flat-square&logo=githubpages&logoColor=white"/></a>
+<a href="https://jiinhong.github.io" target="_blank"><img src="https://img.shields.io/badge/BLOG-222222?style=flat-square&logo=githubpages&logoColor=white"/></a>  
 
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=com5942)](https://solved.ac/profile/com5942)  
 
 
 <!--
