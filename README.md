@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<a href="https://jiinhong.github.io" target="_blank"><img src="https://img.shields.io/badge/githubpages?style=flat-square&logo=githubpages&logoColor=white"/></a>
+<a href="https://jiinhong.github.io" target="_blank"><img src="https://img.shields.io/badge/BLOG-222222?style=flat-square&logo=githubpages&logoColor=white"/></a>
+
 
 
 <!--
