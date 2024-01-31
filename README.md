@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://jiinhong.github.io" target="_blank"><img src="https://img.shields.io/badge/Android-222222?style=flat-square&logo=Android&logoColor=white"/></a>
+<a href="https://jiinhong.github.io" target="_blank"><img src="https://img.shields.io/badge/222222?style=flat-square&logo=Android&logoColor=white"/></a>
 
 
 <!--
