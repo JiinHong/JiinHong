@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-<a href="https://jiinhong.github.io" target="_blank"><img src="https://img.shields.io/badge/000000?style=flat-square&logo=#222222&logoColor=FFFFFF"/></a>
+<a href="https://jiinhong.github.io" target="_blank"><img src="https://img.shields.io/badge/-Example-000000?style=flat-square&logoColor=FFFFFF&color=222222" width="150" height="30" /></a>
+
 
 <!--
 **JiinHong/JiinHong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
