@@ -4,6 +4,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=com5942)](https://solved.ac/profile/com5942)  
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiinHong&show_icons=true&theme=default&line_height=20&count_private=true)
 
 <!--
 **JiinHong/JiinHong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
