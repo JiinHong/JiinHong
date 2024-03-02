@@ -7,7 +7,7 @@
 ⚙ Doing
 <ul>
   <li>
-    <a href="https://github.com/Endless-Creation-Official/EC_page"><b>EC_page</b></a> - 서울과학기술대학교 학술동아리 Endless Creation 34th 홈페이지 제작 중..🔥
+    <a href="https://github.com/Endless-Creation-Official/EC_page"><b>EC_page</b></a> - 서울과학기술대학교 학술동아리 Endless Creation 34th 홈페이지 제작 및 유지보수 중..🔥
   </li>
     <li>
     <a href="https://github.com/JiinHong/EC_C_study"><b>C_study</b></a> - 동아리 신입부원을 위한 C스터디 자료 제작 중..🔥
