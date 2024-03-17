@@ -13,7 +13,7 @@
     <a href="https://github.com/JiinHong/EC_C_study"><b>C_study</b></a> - 동아리 신입부원을 위한 C스터디 자료 제작 중..🔥
   </li>
   <li>
-    <a href="https://foregoing-stilton-93d.notion.site/14f65952411c4ee5b593bc67b5adaec4"><b>Algorithm study</b></a> - 코딩테스트를 위한 알고리즘과 SQL 공부 중..🔥
+    <a href="https://www.notion.so/3c5902e9697045a29f3ee08e20bbc236?pvs=4"><b>Algorithm study</b></a> - 코딩테스트를 위한 알고리즘과 SQL 공부 중..🔥
   </li>
 </ul>
 
