@@ -4,16 +4,31 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=com5942)](https://solved.ac/profile/com5942)  
 
+📎 Did
+<ul>
+  <li>
+    <a href="https://github.com/JiinHong/EC_C_study"><b>C_study</b></a> - 동아리 신입부원을 위한 C스터디
+  </li>
+  <li>
+    <a href="https://github.com/DrinkGuide"><b>DrinkGuide</b></a> - 멋쟁이사자처럼 12기 중앙해커톤 본선 진출 (300팀 中 8팀)
+  </li>
+</ul>
+
+
+
 ⚙ Doing
 <ul>
   <li>
     <a href="https://github.com/Endless-Creation-Official/EC_page"><b>EC_page</b></a> - 서울과학기술대학교 학술동아리 Endless Creation 34th 홈페이지 제작 및 유지보수 중..🔥
   </li>
-    <li>
-    <a href="https://github.com/JiinHong/EC_C_study"><b>C_study</b></a> - 동아리 신입부원을 위한 C스터디 자료 제작 중..🔥
+  <li>
+    <a href="https://likelion.university/"><b>LIKELION</b></a> - 멋쟁이사자처럼 대학 12기 백엔드 파트
   </li>
   <li>
-    <a href="https://www.notion.so/3c5902e9697045a29f3ee08e20bbc236?pvs=4"><b>Algorithm study</b></a> - 코딩테스트를 위한 알고리즘과 SQL 공부 중..🔥
+    <a href="https://9oormthon.university/"><b>9oormthonUNV</b></a> - kakao X goorm 구름톤 유니브 3기 백엔드 파트
+  </li>
+  <li>
+    <a href="https://deepdive.goorm.io/backend"><b>DEEPDIVE</b></a> - kakao X goorm 구름톤 딥다이브 백엔드 개발자 과정
   </li>
 </ul>
 
