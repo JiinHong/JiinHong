@@ -2,8 +2,6 @@
 
 <a href="https://jiinhong.github.io" target="_blank"><img src="https://img.shields.io/badge/BLOG-222222?style=flat-square&logo=githubpages&logoColor=white"/></a>  
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=com5942)](https://solved.ac/profile/com5942)  
-
 📎 Did
 <ul>
   <li>
@@ -31,6 +29,8 @@
     <a href="https://deepdive.goorm.io/backend"><b>DEEPDIVE</b></a> - kakao X goorm 구름톤 딥다이브 백엔드 개발자 과정
   </li>
 </ul>
+
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=com5942" align="center">  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiinHong&show_icons=true&theme=default&line_height=20&count_private=true)
 
