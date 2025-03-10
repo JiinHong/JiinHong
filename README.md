@@ -1,6 +1,7 @@
 ### 🧑🏼‍💻 Park Jin Hong
 
-<a href="https://jiinhong.github.io" target="_blank"><img src="https://img.shields.io/badge/BLOG-222222?style=flat-square&logo=githubpages&logoColor=white"/></a>  
+
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=tardy-turtle&theme={insert_theme})](https://tardy-turtle.tistory.com/)  
 
 📎 Did
 <ul>
