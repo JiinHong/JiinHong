@@ -11,6 +11,15 @@
   <li>
     <a href="https://github.com/DrinkGuide"><b>DrinkGuide</b></a> - 멋쟁이사자처럼 12기 중앙해커톤 본선 진출 (300팀 中 8팀)
   </li>
+  <li>
+    <a href="https://likelion.university/"><b>LIKELION</b></a> - 멋쟁이사자처럼 대학 12기 백엔드 파트 수료
+  </li>
+  <li>
+    <a href="https://9oormthon.university/"><b>9oormthonUNV</b></a> - kakao X goorm 구름톤 유니브 3기 백엔드 파트 수료
+  </li>
+  <li>
+    <a href="https://deepdive.goorm.io/backend"><b>DEEPDIVE</b></a> - kakao X goorm 구름톤 딥다이브 백엔드 개발자 과정 수료
+  </li>
 </ul>
 
 
@@ -21,15 +30,11 @@
     <a href="https://github.com/Endless-Creation-Official/EC_page"><b>EC_page</b></a> - 서울과학기술대학교 학술동아리 Endless Creation 34th 홈페이지 제작 및 유지보수 중..🔥
   </li>
   <li>
-    <a href="https://likelion.university/"><b>LIKELION</b></a> - 멋쟁이사자처럼 대학 12기 백엔드 파트
-  </li>
-  <li>
-    <a href="https://9oormthon.university/"><b>9oormthonUNV</b></a> - kakao X goorm 구름톤 유니브 3기 백엔드 파트
-  </li>
-  <li>
-    <a href="https://deepdive.goorm.io/backend"><b>DEEPDIVE</b></a> - kakao X goorm 구름톤 딥다이브 백엔드 개발자 과정
+    <a href="https://www.swmaestro.org/sw/main/main.do"><b>SW Maestro</b></a> - SW Maestro (소프트웨어 마에스트로) 16기 👨‍💻
   </li>
 </ul>
+
+</br>
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=com5942" align="center">  
 
