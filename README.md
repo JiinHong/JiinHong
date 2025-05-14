@@ -40,6 +40,11 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JiinHong&show_icons=true&theme=default&line_height=20&count_private=true)
 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/jinhong_319/?hl=ko)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:pjh563319@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%EC%A7%84%ED%99%8D-%EB%B0%95-1b316a2b1/)
+
+
 <!--
 **JiinHong/JiinHong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
