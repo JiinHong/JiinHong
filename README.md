@@ -9,6 +9,9 @@
     <a href="https://github.com/JiinHong/EC_C_study"><b>C_study</b></a> - 동아리 신입부원을 위한 C스터디
   </li>
   <li>
+    <a href="https://github.com/Endless-Creation-Official/EC_page"><b>EC_page</b></a> - 서울과학기술대학교 학술동아리 Endless Creation 34th 홈페이지 제작
+  </li>
+  <li>
     <a href="https://github.com/DrinkGuide"><b>DrinkGuide</b></a> - 멋쟁이사자처럼 12기 중앙해커톤 본선 진출 (300팀 中 8팀)
   </li>
   <li>
@@ -20,6 +23,9 @@
   <li>
     <a href="https://deepdive.goorm.io/backend"><b>DEEPDIVE</b></a> - kakao X goorm 구름톤 딥다이브 백엔드 개발자 과정 수료
   </li>
+  <li>
+    <a href="https://www.swmaestro.org/sw/main/main.do"><b>SW Maestro</b></a> - SW 마에스트로 16기 수료
+  </li>
 </ul>
 
 
@@ -27,10 +33,7 @@
 ⚙ Doing
 <ul>
   <li>
-    <a href="https://github.com/Endless-Creation-Official/EC_page"><b>EC_page</b></a> - 서울과학기술대학교 학술동아리 Endless Creation 34th 홈페이지 제작 및 유지보수 중..🔥
-  </li>
-  <li>
-    <a href="https://www.swmaestro.org/sw/main/main.do"><b>SW Maestro</b></a> - SW Maestro (소프트웨어 마에스트로) 16기 👨‍💻
+    <a href="https://play.google.com/store/apps/details?id=com.perfectswing.tennis"><b>Perfect Swing</b></a> - AI 기반 테니스 하이라이트 추출 서비스 (SW 마에스트로 고도화 과정)
   </li>
 </ul>
 
